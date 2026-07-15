@@ -130,9 +130,9 @@ python cis_checker.py
 ──────────────────────────────────────────────────────────
   STEP 1 of 3 — YOUR CONSULTANT DETAILS
 ──────────────────────────────────────────────────────────
-  Your full name [Your Name]: Mohammed Rahman
+  Your full name [Your Name]: Mizanur Rahman Pranto
   Your title: Cloud Security Consultant
-  Your email: hello@yoursite.com
+  Your email: mprantox41@gmail.com
   Your certifications: AWS SAA Certified | ISO 27001 | NIST | GDPR
 
 ──────────────────────────────────────────────────────────
