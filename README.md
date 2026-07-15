@@ -273,10 +273,10 @@ You create read-only IAM credentials in their account
                     ↓
 python cis_checker.py → wizard → PDF in minutes
                     ↓
-Deliver compliance report — charge $5,000–$15,000
+Deliver compliance report 
                     ↓
 Offer remediation retainer to fix all failed controls
-($3,000–$5,000/month ongoing)
+
 ```
 
 ---
