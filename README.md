@@ -295,12 +295,12 @@ Offer remediation retainer to fix all failed controls
 
 ## 👤 About
 
-Built by **[Your Name]** — Cloud Security Consultant  
+Built by **[Mizanur Rahman Pranto]** — Cloud Security Consultant  
 Specialising in AWS security assessments and compliance for startups and SMEs globally.
 
-- 🌐 [yourwebsite.com](https://yourwebsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)
-- 📧 hello@yoursite.com
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mrpranto1997/)
+- 📧 mprantox41@gmail.com
 - 🏅 AWS SAA Certified | ISO 27001 | NIST | GDPR
 
 **Available for CIS Benchmark Assessments** — [Book a free 30-min call](mailto:hello@yoursite.com)
